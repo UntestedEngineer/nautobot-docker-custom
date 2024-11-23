@@ -2,7 +2,7 @@
 
 This application is based off of the original nautobot-docker maintained by the nautobot community [nautobot Docker](https://github.com/nautobot/nautobot-docker-compose) but has several plugins installed.  The dockerfile uses the image as a base: [nautobot Dockerhub](https://hub.docker.com/r/networktocode/nautobot/tags).
 
-The base container used derives from the original nautobot tags labeled with the most recent python version.  Ex: py3.11
+The base container used derives from the original nautobot tags labeled with the most recent python version.  Ex: py3.12
 
 ## Installed plugins
 - [social-auth-core](https://pypi.org/project/social-auth-core/)
